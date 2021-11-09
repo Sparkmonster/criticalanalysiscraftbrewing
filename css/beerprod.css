@@ -1,0 +1,280 @@
+body header {
+  height: 100%;
+  width: 100%;
+  background-image: url('../pics/barrel1.jpg');
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+body #mySidenavMenuBtn {
+  /* background-image: url('../pics/bg3.jpg'); */
+  font-size:40px;
+  cursor:pointer;
+  text-align: left;
+  margin-bottom: 20px;
+  width: 100%;
+  color: white;
+}
+
+body #beersthemselves {
+  /* height: 400px; */
+  width: 100%;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px #ffa500, 0 0 5px #ff6700;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+}
+
+body #beertitle1 {
+  height: 100%;
+  width: 100%;
+  color: black;
+  text-shadow: 1px 1px 2px black, 0 0 25px #ffa500, 0 0 5px #ff6700;
+  background-image: url('../pics/ing6.jpg');
+  background-repeat: repeat;
+  background-size: cover;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+}
+
+body #morebeers {
+  height: 100%;
+  width: 100%;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px #ffa500, 0 0 5px #ff6700;
+  background-image: url('../pics/ing3.jpg');
+  background-repeat: repeat;
+  background-size: cover;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+}
+
+body #otherdrinks{
+  height: 100%;
+  width: 100%;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px #ffa500, 0 0 5px #ff6700;
+  background-image: url('../pics/pexelscottonbro1.jpg');
+  background-repeat: repeat;
+  background-size: cover;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+}
+
+body #finalsummary {
+  height: 100%;
+  width: 100%;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px #ffa500, 0 0 5px #ff6700;
+  background-image: url('../pics/pexels-pixabay-70746.jpg');
+  background-repeat: repeat;
+  background-size: cover;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+}
+
+
+body p {
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body #one {
+  background-color: #228B22;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+  text-shadow: 1px 1px 2px black, 0 0 25px #ffa500, 0 0 5px #ff6700;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+}
+
+body #two {
+  background-color: #ffa500;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #800080;
+  text-shadow: 1px 1px 2px black, 0 0 25px #ffa500, 0 0 5px #ff6700;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+}
+
+.buttonpage {
+  border: none;
+  text-decoration: none;
+  display: inline-block;
+  text-shadow: 1px 1px 2px black, 0 0 25px #ffa500, 0 0 5px #ff6700;
+  font-size: 16px;
+  padding: 32px 16px;
+  margin: 4px 2px;
+  border-radius: 12px;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
+
+.socialpage {
+  border: none;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.button1 {
+  background-image: url('../pics/ing4.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.button2 {
+  background-image: url('../pics/pexelscottonbro1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.button3 {
+  background-image: url('../pics/ing5.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.button4 {
+  background-image: url('../pics/pexelscottonbro3.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.button5 {
+  background-image: url('../pics/ing2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.button6 {
+  background-image: url('../pics/ing1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.social1 {
+  background-image: url('../pics/faceicon4.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.social2 {
+  background-image: url('../pics/twiticon4.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.social3 {
+  background-image: url('../pics/instaicon4.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.social4 {
+  background-image: url('../pics/pinticon4.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body footer {
+  height: 100%;
+  width: 100%;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px #ffa500, 0 0 5px #ff6700;
+  background-image: url('../pics/sum1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+}
+
+.navbar-custom {
+    /* background-image: url('../pics/ing5.jpg'); */
+    background-color: #ffa500;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text{
+    color: black;
+    cursor: pointer;
+}
+
+.navbar-custom .navbar-nav > li > a:hover, .navbar-custom .navbar-nav > li > a:focus {
+    color:  #ffa500;
+    cursor: pointer;
+}
+
+.button-container {
+    width: 100%;
+    overflow-y: auto;
+}
+
+.button-container > a{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 15px;
+}
+
+.button-container > a:hover {
+    width: 100px;
+    height: 100px;
+    float: left;
+    background: #ffa500;
+    margin: 15px;
+}
+
+.social-container {
+  width: 100%;
+  overflow-y: auto;
+}
+
+.social-container > a{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 15px;
+}
+
+.social-container > a:hover {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 15px;
+}
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {}
+
+/* Clear floats after the columns */
